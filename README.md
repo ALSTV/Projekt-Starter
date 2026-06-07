@@ -35,7 +35,11 @@ git clone https://github.com/DEINNAME/projekt-starter.git
 cd projekt-starter
 
 ```
-Projekt im Code editor deiner Wahl Öffnen
+Projekt im Code editor deiner Wahl Öffnen <br>
+
+### Ohne GIT
+Du kannst den Projektstarter auch ohne Git herunterladen. <br>
+Klicke dafür rechts auf Releases und lade dir die Passende version herunter.
 
 ---
 
