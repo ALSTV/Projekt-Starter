@@ -30,7 +30,7 @@
 # ⚙ Installation
 
 ```bash
-git clone https://github.com/DEINNAME/projekt-starter.git
+git clone https://github.com/alstv/projekt-starter.git
 
 cd projekt-starter
 
