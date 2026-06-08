@@ -1,4 +1,3 @@
-<div style="background: linear-gradient(to bottom, #a1c4fd, #c2e9fb, #d4a5ff, #fbc2eb); padding: 25px; border-radius: 12px; color: white;">
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?color=3b82f6&size=32&center=true&vCenter=true&width=900&duration=2600&pause=1000&lines=🚀+ALS_TV's+Projekt+Starter;⚡+Projektordner+in+Sekunden+erstellen;🐍+Python+und+🌐+HTML+Templates;📂+Nie+wieder+Ordner+von+Hand+anlegen" />
@@ -164,5 +163,4 @@ Wenn du auf der sicheren Seite seinen möchtest, lade dir die Projektdatei [hier
 
 Made with ❤️ by **ALS_TV**
 
-</div>
 </div>
