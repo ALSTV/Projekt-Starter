@@ -130,6 +130,11 @@ Fertig
 </div>
 
 ---
+# 🔮 Das kommt in Zukunft 
+- Weiteres Auswahlfenster, und die Möglichkeit Tailwind direkt einzubinden
+
+
+---
 
 <div align="center">
 
