@@ -26,6 +26,12 @@
 🖥 Einfache GUI mit Tkinter <br>
 
 ---
+# 🚧 Vor der Installation
+Damit das Script funktioniert, musst du Python auf deinem Computer installiert haben. du kannst es [hier](https://www.python.org/downloads/) herunterladen 
+
+
+
+---
 
 # ⚙ Installation
 
