@@ -42,10 +42,10 @@ git clone https://github.com/alstv/projekt-starter.git
 cd projekt-starter
 
 ```
-Projekt im Code editor deiner Wahl Öffnen <br>
+Öffne das Projekt nun in VS Code <br>
 
 ### Ohne GIT
-Du kannst den Projektstarter auch ohne Git herunterladen. <br>
+Sollte der oben gezeigte Weg warum auch immer nicht bei dir Funktionieren, oder du Git nicht herunterladen möchtest, kannst du das Projekt auch als .zip herunterladen. <br>
 Klicke dafür [hier](https://github.com/ALSTV/Projekt-Starter/releases) und lade dir die neuste Version herunter.
 
 ---
