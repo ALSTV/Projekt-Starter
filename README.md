@@ -27,7 +27,8 @@
 
 ---
 # 🚧 Vor der Installation
-Damit das Script funktioniert, musst du Python auf deinem Computer installiert haben. Du kannst es [hier](https://www.python.org/downloads/) herunterladen 
+Damit das Script funktioniert, musst du Python auf deinem Computer installiert haben. Du kannst es [hier](https://www.python.org/downloads/) herunterladen <br>
+Außerdem empfehle ich, VS Code für die Einrichtung zu nutzen. Du kannst es [hier](https://code.visualstudio.com/Download) herunterladen
 
 
 
