@@ -27,7 +27,7 @@
 
 ---
 # 🚧 Vor der Installation
-Damit das Script funktioniert, musst du Python auf deinem Computer installiert haben. du kannst es [hier](https://www.python.org/downloads/) herunterladen 
+Damit das Script funktioniert, musst du Python auf deinem Computer installiert haben. Du kannst es [hier](https://www.python.org/downloads/) herunterladen 
 
 
 
@@ -45,7 +45,7 @@ Projekt im Code editor deiner Wahl Öffnen <br>
 
 ### Ohne GIT
 Du kannst den Projektstarter auch ohne Git herunterladen. <br>
-Klicke dafür rechts auf Releases und lade dir die Passende version herunter.
+Klicke dafür [hier](https://github.com/ALSTV/Projekt-Starter/releases) und lade dir die neuste Version herunter.
 
 ---
 
