@@ -136,6 +136,11 @@ Fertig
 
 
 ---
+## 🚨 Hinweis
+Die Versionen aus dem Repo "könnten" unstabiel sein, oder nicht funktionieren. <br>
+Wenn du auf der sicheren Seite seinen möchtest, lade dir die Projektdatei [hier](https://github.com/ALSTV/Projekt-Starter/releases) herunter
+
+---
 
 <div align="center">
 
