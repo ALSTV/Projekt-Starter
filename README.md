@@ -28,8 +28,8 @@
 ---
 # 🚧 Vor der Installation
 Damit das Script funktioniert, musst du Python auf deinem Computer installiert haben. Du kannst es [hier](https://www.python.org/downloads/) herunterladen <br>
-Außerdem empfehle ich, VS Code für die Einrichtung zu nutzen. Du kannst es [hier](https://code.visualstudio.com/Download) herunterladen
-
+Außerdem empfehle ich, VS Code für die Einrichtung zu nutzen. Du kannst es [hier](https://code.visualstudio.com/Download) herunterladen <br>
+Außerdem empfehle ich git zu nutzen, dies ist aber optional. Du kannst Git [hier](https://git-scm.com/install/) herunterladen 
 
 
 ---
