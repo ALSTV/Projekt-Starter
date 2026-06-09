@@ -50,7 +50,8 @@ Klicke dafür [hier](https://github.com/ALSTV/Projekt-Starter/releases) und lade
 
 ---
 
-# 🛠 DEV_PATH konfigurieren
+# 🛠 Projekt Starter konfigurieren
+### DEV_PATH konfigurieren
 
 Damit der Projektstarter weiß, **wo neue Projekte gespeichert werden sollen**, passe vor dem ersten Start diese Zeile an:
 
@@ -81,6 +82,11 @@ DEV_PATH = Path("/Users/user/DEV")
 
 Du kannst aber selbst entscheiden, wo der Standart ordner sein soll. <br>
 Die zu bearbeitene Zeile findest du ganz oben in der main.py datei.
+
+---
+# 🔴 Projekt Starter Starten
+Wenn du in der main.py bist, kannst du in VS Code oben rechts auf das Play Symbol drücken, du hangelst dich im Terminal mit "cd" in den richtigen Ordner und führst dann "Python main.py" aus, oder du klickst du main.py im Explorer an!
+
 
 ---
 
