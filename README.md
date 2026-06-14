@@ -24,6 +24,7 @@
 📂 Projekte autmatisch in deinem Code ordner ablegen <br>
 ⚡ Sofort nutzbare Projektstruktur <br>
 🖥 Einfache GUI mit Tkinter <br>
+🧍Personalisierbarer Name
 
 ---
 # 🚧 Vor der Installation
