@@ -62,26 +62,29 @@ DEV_PATH = Path("C:/DEV")
 ### Beispiel 
 <br>
 
-Windows:
-
 ```python
 DEV_PATH = Path("D:/Projekte")
 ```
 
-Linux:
-
-```python
-DEV_PATH = Path("/home/user/DEV")
-```
-
-Mac:
-
-```python
-DEV_PATH = Path("/Users/user/DEV")
-```
-
 Du kannst aber selbst entscheiden, wo der Standart ordner sein soll. <br>
-Die zu bearbeitene Zeile findest du ganz oben in der main.py datei.
+
+
+### Name Personalisieren 
+
+Damit der Projektstarter so nah wie möglich wird, passe die zeile unter dem DEV_PATH an:
+
+```python
+NAME = "Dein Name"
+```
+
+### Beispiel 
+<br>
+
+```python
+NAME = "Alex"
+```
+
+Beide Zeilen findest du oben in der main.py
 
 ---
 # 🔴 Projekt Starter Starten
