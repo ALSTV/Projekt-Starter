@@ -26,24 +26,32 @@
 🖥 Einfache GUI mit Tkinter <br>
 
 ---
+# 🚧 Vor der Installation
+Damit das Script funktioniert, musst du Python auf deinem Computer installiert haben. Du kannst es [hier](https://www.python.org/downloads/) herunterladen <br>
+Außerdem empfehle ich, VS Code für die Einrichtung zu nutzen. Du kannst es [hier](https://code.visualstudio.com/Download) herunterladen <br>
+Außerdem empfehle ich git zu nutzen, dies ist aber optional. Du kannst Git [hier](https://git-scm.com/install/) herunterladen 
+
+
+---
 
 # ⚙ Installation
 
 ```bash
-git clone https://github.com/DEINNAME/projekt-starter.git
+git clone https://github.com/alstv/projekt-starter.git
 
 cd projekt-starter
 
 ```
-Projekt im Code editor deiner Wahl Öffnen <br>
+Öffne das Projekt nun in VS Code <br>
 
 ### Ohne GIT
-Du kannst den Projektstarter auch ohne Git herunterladen. <br>
-Klicke dafür rechts auf Releases und lade dir die Passende version herunter.
+Sollte der oben gezeigte Weg warum auch immer nicht bei dir Funktionieren, oder du Git nicht herunterladen möchtest, kannst du das Projekt auch als .zip herunterladen. <br>
+Klicke dafür [hier](https://github.com/ALSTV/Projekt-Starter/releases) und lade dir die neuste Version herunter.
 
 ---
 
-# 🛠 DEV_PATH konfigurieren
+# 🛠 Projekt Starter konfigurieren
+### DEV_PATH konfigurieren
 
 Damit der Projektstarter weiß, **wo neue Projekte gespeichert werden sollen**, passe vor dem ersten Start diese Zeile an:
 
@@ -74,6 +82,11 @@ DEV_PATH = Path("/Users/user/DEV")
 
 Du kannst aber selbst entscheiden, wo der Standart ordner sein soll. <br>
 Die zu bearbeitene Zeile findest du ganz oben in der main.py datei.
+
+---
+# 🔴 Projekt Starter Starten
+Wenn du in der main.py bist, kannst du in VS Code oben rechts auf das Play Symbol drücken, du hangelst dich im Terminal mit "cd" in den richtigen Ordner und führst dann "Python main.py" aus, oder du klickst du main.py im Explorer an!
+
 
 ---
 
@@ -122,6 +135,17 @@ Fertig
 ```
 
 </div>
+
+---
+# 🔮 Das kommt in Zukunft 
+- Weiteres Auswahlfenster, und die Möglichkeit Tailwind direkt einzubinden
+- Das Projekt über eine .exe ausführbar zu machen 
+
+
+---
+## 🚨 Hinweis
+Die Versionen aus dem Repo "könnten" unstabiel sein, oder nicht funktionieren. <br>
+Wenn du auf der sicheren Seite seinen möchtest, lade dir die Projektdatei [hier](https://github.com/ALSTV/Projekt-Starter/releases) herunter
 
 ---
 
