@@ -3,9 +3,14 @@ from pathlib import Path
 import tkinter as tk
 from tkinter import messagebox
 
+#################################################
+
 # DEV Hauptordner Bei bedarf Ändern
 DEV_PATH = Path("C:/DEV")
+# Hier deinen Namen Festlegen
+NAME = "Dein Name"
 
+#################################################
 
 def get_project_path(name):
     if save_location.get() == "dev":
@@ -106,7 +111,7 @@ root.mainloop()
 
 # GUI
 window = tk.Tk()
-window.title("ALS_TV's Projekt Starter")
+window.title(f"{NAME}'s Projekt Starter")
 window.geometry("500x350")
 
 bg = "#1e1e1e"
@@ -116,7 +121,7 @@ window.config(bg=bg)
 
 tk.Label(
     window,
-    text="ALS_TV's Projektstarter",
+    text=f"{NAME}'s Projektstarter",
     bg=bg,
     fg=fg,
     font=("Arial", 20)
